@@ -1,0 +1,36 @@
+#####################################################################
+# JDL           : AstraStk.jdl (ClassAD)                            #
+# Release       : 1.1                                               #
+# Last Update   : January 14, 2008                                  #
+# ================================================================  #
+# Author        : Domenico Vicinanza (domenico.vicinanza@dante.org) #
+# Organization  : Acoustics and Sound Synthesis                     #
+#               : DMI - Univ. of Salerno                            #
+# Address       : Via Ponte Don Melillo                             #
+#               : 84084 Fisciano (SA) - ITALY                       #
+# Phone         : (+39) 089.96.33.30                                #
+# ================================================================  #
+# Author        : Giuseppe La Rocca (giuseppe.larocca@ct.infn.it)   #
+# Organization  : Physics Institute for Nuclear Research            #
+#               : INFN - Univ. of Catania                           #
+# Address       : Via S. Sofia, 64                                  #
+#               : 95123 Catania (CT) - ITALY                        #
+# Phone         : (+39) 095.378.55.19                               #
+#####################################################################
+
+[
+	Type = "Job";
+	JobType = "Normal";
+
+	Executable = "/bin/sh";
+	Arguments = "AstraStk.sh";
+
+	StdOutput = "AstraStk.out";
+	StdError = "AstraStk.err";
+
+	InputSandbox = {"AstraStk.tar.gz","AstraStk.sh","generatetone.sh","makeaudiosamples.sh"};
+
+	OutputSandbox = {"AstraStk.out","AstraStk.err","OUTPUT2RETRIEVE.wav","samples.tar.gz"};
+
+	Requirements = Member("VO-gilda-ASTRA",other.GlueHostApplicationSoftwareRunTimeEnvironment); 
+]

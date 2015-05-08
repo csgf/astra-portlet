@@ -1,0 +1,8 @@
+bdii.eumedgrid.eu:2170
+https://wms-4.dir.garr.it:7443/glite_wms_wmproxy_server 
+myproxy.ct.infn.it
+21057
+eumed
+/eumed
+yes
+false

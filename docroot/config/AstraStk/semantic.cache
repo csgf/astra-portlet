@@ -1,0 +1,15 @@
+;; Object Prototipo/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "Prototipo/"
+  :tables (list 
+   (semanticdb-table "stktest.cpp"
+    :major-mode 'c++-mode
+    :tags '(("Plucked.h" include nil nil [1 21]) ("Messager.h" include nil nil [22 43]) ("Voicer.h" include nil nil [44 63]) ("FileWvOut.h" include nil nil [64 86]) ("SKINI.msg" include nil nil [87 107]) ("algorithm" include (:system-flag t) nil [109 129]) ("iostream" include (:system-flag t) nil [130 149]) ("TickData" type (:members (("voicer" variable (:type ("Voicer" type (:type "class") nil nil)) (reparse-symbol classsubparts) [204 218]) ("messager" variable (:type ("Messager" type (:type "class") nil nil)) (reparse-symbol classsubparts) [221 239]) ("out" variable (:type ("FileWvOut" type (:type "class") nil nil)) (reparse-symbol classsubparts) [242 256]) ("message" variable (:type ("Skini::Message" type (:type "class") nil nil)) (reparse-symbol classsubparts) [259 282]) ("counter" variable (:type "int") (reparse-symbol classsubparts) [285 297]) ("haveMessage" variable (:type ("bool" type (:type "class") nil nil)) (reparse-symbol classsubparts) [300 317]) ("done" variable (:type ("bool" type (:type "class") nil nil)) (reparse-symbol classsubparts) [320 330]) ("TickData" function (:constructor-flag t :type ("TickData" type "struct")) (reparse-symbol classsubparts) [334 399])) :type "struct") nil [184 402]) ("DELTA_CONTROL_TICKS" variable (:constant-flag t :default-value (nil)) nil [404 434]) ("processMessage" function (:arguments (("data" variable (:pointer 1 :type ("TickData" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [507 523])) :type "void") nil [486 1402]) ("tick" function (:arguments (("buffer" variable (:pointer 1 :type "char") (reparse-symbol arg-sub-list) [1464 1477]) ("bufferSize" variable (:type "int") (reparse-symbol arg-sub-list) [1478 1493]) ("dataPointer" variable (:pointer 1 :type "void") (reparse-symbol arg-sub-list) [1494 1512])) :type "int") nil [1455 2221]) ("main" function (:arguments (("argc" variable (:type "int") (reparse-symbol arg-sub-list) [2233 2242]) ("argv" variable (:pointer 1 :dereference 1 :type "char") (reparse-symbol arg-sub-list) [2243 2257])) :type "int") nil [2224 3301]))
+    :file "stktest.cpp"
+    :pointmax 3302
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )

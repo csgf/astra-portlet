@@ -7,7 +7,7 @@
 
 <h2>About the ASTRA application</h2>
 <p align="justify">
-<img width="400" src="http://science-gateway.chain-project.eu/astra-portlet/images/ASTRA_logo_new.png" border="0"></br>
+<img width="400" src="http://science-gateway.chain-project.eu/astra-portlet/images/ASTRA_logo_new.png" border="0">
 The project aims to reconstruct the sound or timbre of ancient instruments (not existing anymore) using archaeological data as fragments from excavations, written descriptions, pictures, etc</br></br>
 
 The technique used is the Physical Modeling Synthesis, a complex digital audio rendering technique which allows modeling the time-domain physics of the instrument. In other words the basic idea is to recreate a model of the musical instrument and produce the sound by simulating its behavior as a mechanical system.</br></br>

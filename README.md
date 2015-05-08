@@ -7,8 +7,7 @@
 
 <h2>About the ASTRA application</h2>
 <p align="justify">
-<img width="400" src="http://science-gateway.chain-project.eu/astra-portlet/images/ASTRA_logo_new.png" border="0">
-<img width="400" src="https://science-gateway.chain-project.eu/astra-portlet/images/LostSoundOrchestra.png" border="0">
+<img width="400" src="http://science-gateway.chain-project.eu/astra-portlet/images/ASTRA_logo_new.png">
 </br>
 The project aims to reconstruct the sound or timbre of ancient instruments (not existing anymore) using archaeological data as fragments from excavations, written descriptions, pictures, etc</br></br>
 

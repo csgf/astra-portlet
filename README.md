@@ -26,7 +26,7 @@ The application would produce one or more sounds corresponding to different conf
 <p align="justify">
 <a href="http://www.infn.it/"><img width="150" src="http://www.infn.it/logo/weblogo1.gif" border="0" title="The INFN Home Page"></a>
 
-<a href="http://www.chain-project.eu/"><img width="150" src="https://www.chain-project.eu/image/image_gallery?uuid=4b273102-2ed0-49ca-929f-c23379318171&groupId=3456180&t=1424446552904" border="0" title="The CHAIN-REDS Home Page"></a>
+<a href="http://www.dante.net"><img width="150" src="http://global.dante.net/upload/img_400/dante_large.gif" border="0" title="DANTE - Delivery of Advanced Network Technology to Europe"></a>
 </p> 
 
 

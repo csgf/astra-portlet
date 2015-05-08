@@ -33,7 +33,7 @@ The application would produce one or more sounds corresponding to different conf
 <a href="http://www.dante.net"><img width="150" src="http://global.dante.net/upload/img_400/dante_large.gif" border="0" title="DANTE - Delivery of Advanced Network Technology to Europe"></a>
 </td>
 </tr>
-</table?
+</table>
 
 
 

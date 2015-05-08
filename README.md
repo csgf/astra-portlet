@@ -23,10 +23,17 @@ The application would produce one or more sounds corresponding to different conf
 - Create an Issue with a link to your branch
 
 <h2>Sponsors</h2>
-<p align="justify">
+<table border="0">
+<tr>
+<td>
 <a href="http://www.infn.it/"><img width="150" src="http://www.infn.it/logo/weblogo1.gif" border="0" title="The INFN Home Page"></a>
-
+</td>
+<td></td>
+<td>
 <a href="http://www.dante.net"><img width="150" src="http://global.dante.net/upload/img_400/dante_large.gif" border="0" title="DANTE - Delivery of Advanced Network Technology to Europe"></a>
-</p> 
+</td>
+</tr>
+</table?
+
 
 

@@ -122,10 +122,15 @@ A typical simulation produces, at the end, the following files:
 References
 ============
 
-.. _1: https://www.youtube.com/watch?v=YZ6JNzD2TM4
-.. _2: http://agenda.ct.infn.it/event/1110/
+.. _1: http://documents.ct.infn.it/record/421/files/Proceedings_Workshop_Finale.pdf
+.. _2: http://www.garr.it/eventiGARR/conf09/doc/SelectedPapers_Conf09.pdf
+.. _3: https://books.google.it/books?id=fZdGAAAAQBAJ&printsec=frontcover&hl=it
 
-* CHAIN-REDS Conference: *"Open Science at the Global Scale: Sharing e-Infrastructures, Sharing Knowledge, Sharing Progress"* – March 31, 2015 – Brussels, Belgium [2_];
+* Final workshop of Grid Projects "Pon Ricerca 2000-2006, Avviso 1575": *"ASTRA Project Achievements: The reconstructed Greek Epigonion with GILDA/ASTRA brings history to life. It takes archaeological findings of extinct musical instruments, and lets us play them again thanks to a virtual digital model running on the GRID.EUMEDGRID on GEANT2/EUMEDCONNECT"* – February 10-12, 2009 Catania, Italy [1_];
+
+* Conferenza GARR: *"ASTRA Project: un ponte fra Arte/Musica e Scienza/Tecnologia - Conferenza GARR"*, September 2009, Napoli, Italy [2_];
+
+* International Symposium on Grid Computing 2009: *"The ASTRA (Ancient instruments Sound/Timbre Reconstruction Application) Project brings history to life"*, 2010, Taipei, Taiwan [3_];
 
 ============
 Support
@@ -138,7 +143,7 @@ Please feel free to contact us any time if you have any questions or comments.
 :Authors:
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
-`Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
 
  `Domenico VICINANZA <mailto:mario.torrisi@ct.infn.it>`_ - DANTE (DANTE_),
 

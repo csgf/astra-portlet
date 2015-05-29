@@ -7,6 +7,7 @@ About
 ============
 
 .. image:: images/ASTRA_logo.png
+   :scale: 50%
    :align: left
    :target: http://www.astraproject.org/
 -------------

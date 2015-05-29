@@ -130,9 +130,9 @@ References
 
 * Final workshop of Grid Projects "Pon Ricerca 2000-2006, Avviso 1575": *"ASTRA Project Achievements: The reconstructed Greek Epigonion with GILDA/ASTRA brings history to life. It takes archaeological findings of extinct musical instruments, and lets us play them again thanks to a virtual digital model running on the GRID.EUMEDGRID on GEANT2/EUMEDCONNECT"* – February 10-12, 2009 Catania, Italy [1_];
 
-* Conferenza GARR: *"ASTRA Project: un ponte fra Arte/Musica e Scienza/Tecnologia - Conferenza GARR"*, September 2009, Napoli, Italy [2_];
+* Conferenza GARR: *"ASTRA Project: un ponte fra Arte/Musica e Scienza/Tecnologia - Conferenza GARR"* – September 2009, Napoli, Italy [2_];
 
-* International Symposium on Grid Computing 2009: *"The ASTRA (Ancient instruments Sound/Timbre Reconstruction Application) Project brings history to life"*, 2010, Taipei, Taiwan [3_];
+* International Symposium on Grid Computing 2009: *"The ASTRA (Ancient instruments Sound/Timbre Reconstruction Application) Project brings history to life"* – March 2010, Taipei, Taiwan [3_];
 
 ============
 Support

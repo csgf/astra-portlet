@@ -87,11 +87,15 @@ To run a molecular dynamics simulations with ASTRA_ the user has to:
 
 - select settings for the generation of the digital libraries as shown in the below figure:
 
-
+.. image:: images/ASTRA_inputs.jpg
+      :align: center
 
 - click on the *third* accordion of the portlet and,
 
 - select the input file (e.g. *.ski* or *.mid* files) OR select a demo from the list as shown in the below figure:
+
+.. image:: images/ASTRA_inputs2.jpg
+      :align: center
 
 Each molecular dynamic simulation will produce:
 
@@ -102,9 +106,6 @@ Each molecular dynamic simulation will produce:
 - *.wav*: a MIDI file about an opera played using the Epigonion_;
 
 - *.tar.gz*: containing the sound libraries of each singular string of the Epigonion_.
-
-.. image:: images/ASTRA_input.jpg
-   :align: center
 
 A typical simulation produces, at the end, the following files:
 
@@ -133,7 +134,8 @@ Please feel free to contact us any time if you have any questions or comments.
 :Authors:
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
-`Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_) and Department of Physics and Astronomy of the University of Catania (DFA_),
+`Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_) and 
+ Department of Physics and Astronomy of the University of Catania (DFA_),
 
  `Domenico VICINANZA <mailto:mario.torrisi@ct.infn.it>`_ - DANTE (DANTE_),
 

@@ -7,7 +7,7 @@ About
 ============
 
 .. image:: images/ASTRA_logo.png
-   :height: 100px
+   :height: 50px
    :align: left
    :target: http://www.astraproject.org/
 -------------
@@ -129,13 +129,11 @@ Please feel free to contact us any time if you have any questions or comments.
 
 .. _INFN: http://www.ct.infn.it/
 .. _DANTE: http://www.dante.net/
-.. _DFA: https://www.dfa.unict.it/home/barbera/
 
 :Authors:
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
-`Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_) and 
- Department of Physics and Astronomy of the University of Catania (DFA_),
+`Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
 
  `Domenico VICINANZA <mailto:mario.torrisi@ct.infn.it>`_ - DANTE (DANTE_),
 

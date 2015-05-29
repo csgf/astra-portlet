@@ -109,13 +109,15 @@ Each simulation will produce:
 
 A typical simulation produces, at the end, the following files:
 
+.. _wav: images/bachfugue.wav
+
 .. code:: bash
 
         ]$ tree ASTRASoundTimbreReconstructionSimulationStarted_148681/
         ASTRASoundTimbreReconstructionSimulationStarted_148681/
         ├── AstraStk.err
         ├── AstraStk.out
-        ├── bachfugue.wav (8.7M)
+        ├── bachfugue.wav (8.7M) [wav_]
         ├── output.README
         └── samples.tar.gz (589M)
 

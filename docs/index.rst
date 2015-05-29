@@ -7,7 +7,8 @@ About
 ============
 
 .. image:: images/ASTRA_logo.png
-   :scale: 50%
+   :width: 400px
+   :height: 150px
    :align: left
    :target: http://www.astraproject.org/
 -------------
@@ -109,15 +110,13 @@ Each simulation will produce:
 
 A typical simulation produces, at the end, the following files:
 
-.. _wav: images/bachfugue.wav
-
 .. code:: bash
 
         ]$ tree ASTRASoundTimbreReconstructionSimulationStarted_148681/
         ASTRASoundTimbreReconstructionSimulationStarted_148681/
         ├── AstraStk.err
         ├── AstraStk.out
-        ├── bachfugue.wav (8.7M) [wav_]
+        ├── bachfugue.wav (8.7M)
         ├── output.README
         └── samples.tar.gz (589M)
 

@@ -81,7 +81,7 @@ Usage
 
 .. _Epigonion: https://www.youtube.com/watch?v=YZ6JNzD2TM4
 
-To run a molecular dynamics simulations with ASTRA_ the user has to:
+To run a simulation with ASTRA_ the user has to:
 
 - click on the *second* accordion of the portlet and,
 
@@ -97,7 +97,7 @@ To run a molecular dynamics simulations with ASTRA_ the user has to:
 .. image:: images/ASTRA_inputs2.jpg
       :align: center
 
-Each molecular dynamic simulation will produce:
+Each simulation will produce:
 
 - *std.txt*: the standard output file;
 

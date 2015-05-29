@@ -7,8 +7,8 @@ About
 ============
 
 .. image:: images/ASTRA_logo.png
-   :width: 350px;
-   :heigth: 200px;
+   :width: 350px
+   :height: 200px
    :align: left
    :target: http://www.astraproject.org/
 -------------

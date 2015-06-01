@@ -141,7 +141,7 @@ Please feel free to contact us any time if you have any questions or comments.
 .. _INFN: http://www.ct.infn.it/
 .. _DANTE: http://www.dante.net/
 .. _MALAGA: http://www.uma.es/
-.. _CIMAROSA: http://www.conservatoriocimarosa.org/
+.. _4: http://www.conservatoriocimarosa.org/
 
 :Authors:
 
@@ -153,10 +153,10 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
- `Mariapaola SORRENTINO <mailto:mariapaola.sorrentino@gmail.com>`_ - Conservatory of Music of Avellino (CIMAROSA_),
+ `Mariapaola SORRENTINO <mailto:mariapaola.sorrentino@gmail.com>`_ - Conservatory of Music of Avellino ([4_]),
  
  `Domenico VICINANZA <mailto:domenico.vicinanza@dante.net>`_ - DANTE (DANTE_),
 
 :Version: v1.8.4, 2015
 
-:Date: May 29th, 2015 16:54
+:Date: June 1st, 2015 09:36

@@ -85,7 +85,7 @@ To run a simulation with ASTRA_ the user has to:
 
 - click on the *second* accordion of the portlet and,
 
-- select settings for the generation of the digital libraries as shown in the below figure:
+- select some settings for the generation of the digital libraries as shown in the below figure:
 
 .. image:: images/ASTRA_inputs.jpg
       :align: center

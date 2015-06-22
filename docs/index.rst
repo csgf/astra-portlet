@@ -159,5 +159,5 @@ Please feel free to contact us any time if you have any questions or comments.
  
  Mariapaola SORRENTINO - Conservatory of Music of Avellino ([5_]),
  
- Domenico VICINANZA - DANTE (DANTE_),
+ Domenico VICINANZA - DANTE (DANTE_)
 

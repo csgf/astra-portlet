@@ -1,5 +1,5 @@
 *********************
-ASTRA Docs
+ASTRA
 *********************
 
 ============
@@ -138,7 +138,7 @@ References
 
 
 ============
-Support
+Contributors
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -149,18 +149,15 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
 
- `Salvatore AVANZO <mailto:mario.torrisi@ct.infn.it>`_ - *Responsible for Development Activities*,
+ `Salvatore AVANZO `_ - *Responsible for Development Activities*,
  
- `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ `Roberto BARBERA `_ - Italian National Institute of Nuclear Physics (INFN_),
  
- `Francesco DE MATTIA <mailto:demattia@uma.es>`_ - Universidad de Málaga (MALAGA_),
+ `Francesco DE MATTIA `_ - Universidad de Málaga (MALAGA_),
  
- `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ `Giuseppe LA ROCCA `_ - Italian National Institute of Nuclear Physics (INFN_),
  
- `Mariapaola SORRENTINO <mailto:mariapaola.sorrentino@gmail.com>`_ - Conservatory of Music of Avellino ([5_]),
+ `Mariapaola SORRENTINO `_ - Conservatory of Music of Avellino ([5_]),
  
- `Domenico VICINANZA <mailto:domenico.vicinanza@dante.net>`_ - DANTE (DANTE_),
+ `Domenico VICINANZA `_ - DANTE (DANTE_),
 
-:Version: v1.8.4, 2015
-
-:Date: June 1st, 2015 09:36

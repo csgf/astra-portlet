@@ -149,15 +149,15 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
 
- `Salvatore AVANZO `_ - *Responsible for Development Activities*,
+ Salvatore AVANZO - *Responsible for Development Activities*,
  
- `Roberto BARBERA `_ - Italian National Institute of Nuclear Physics (INFN_),
+ Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
  
- `Francesco DE MATTIA `_ - Universidad de Málaga (MALAGA_),
+ Francesco DE MATTIA - Universidad de Málaga (MALAGA_),
  
- `Giuseppe LA ROCCA `_ - Italian National Institute of Nuclear Physics (INFN_),
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_),
  
- `Mariapaola SORRENTINO `_ - Conservatory of Music of Avellino ([5_]),
+ Mariapaola SORRENTINO - Conservatory of Music of Avellino ([5_]),
  
- `Domenico VICINANZA `_ - DANTE (DANTE_),
+ Domenico VICINANZA - DANTE (DANTE_),
 
